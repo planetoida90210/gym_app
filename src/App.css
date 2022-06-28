@@ -78,3 +78,8 @@ body {
   transform: scale(1, 1);
   transition: 0.3s all ease-in-out;
 }
+
+.detail-image {
+  width: 729px;
+  height: 742px;
+}
