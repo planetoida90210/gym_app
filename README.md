@@ -8,6 +8,10 @@ I present my latest application. Gym App is an simple application that alows You
 
 App is created in [REACT JS](https://reactjs.org/) styled with [MATERIALUI](https://mui.com/).
 
+Search different exercises and find similar variation, You can find exercises by typing equipment like cables, kettles etc. :)
+
+Remember to keep Your body in good shape ! 
+
 It works good on mutlitple devices | phone 📱 tablet | desktop 🖥️
 
 
